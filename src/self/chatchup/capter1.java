@@ -6,6 +6,8 @@ public class capter1 {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
 
     }
 }
